@@ -41,4 +41,15 @@ extern NSString * REMOTE_TYPE_PARAM_VALUE_VIDEO;
 
 //************************** APP CONSTANTS **************************//
 
+
+//************ Video Constants *************//
+
+extern float  VIDEO_MAXIMUMDURATION;
+
+extern float  VIDEO_MINIMUMDURATION;
+
+//************ Video Constatns ************//
+
+
+
 @end

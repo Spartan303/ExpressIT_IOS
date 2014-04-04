@@ -16,7 +16,7 @@
 #import <AssetsLibrary/AssetsLibrary.h>
 #import <AVFoundation/AVFoundation.h>
 #import "UploadVideoViewController.h"
-
+#import "MediaCaptureViewController.h"
 @interface HomeViewController ()
 
 @end
@@ -145,8 +145,12 @@
 -(IBAction)mediaGroupViewController:(id)sender
 {
   
-    UIAlertView * mediaCategoryAlertView = [[UIAlertView alloc]initWithTitle:@"Select Media" message:nil delegate:self cancelButtonTitle:@"Cancel" otherButtonTitles:@"Image",@"Video", nil];
-    [mediaCategoryAlertView show];
+//    UIAlertView * mediaCategoryAlertView = [[UIAlertView alloc]initWithTitle:@"Select Media" message:nil delegate:self cancelButtonTitle:@"Cancel" otherButtonTitles:@"Image",@"Video", nil];
+//    [mediaCategoryAlertView show];
+    
+    MediaCaptureViewController * mediaGropuVc = [[MediaCaptureViewController alloc]initWithNibName:@"MediaCaptureViewController" bundle:[NSBundle mainBundle]];
+    [self.navigationController pushViewController:mediaGropuVc animated:YES];
+    
 
 }
 - (IBAction)toggleToMainMenuButton:(id)sender

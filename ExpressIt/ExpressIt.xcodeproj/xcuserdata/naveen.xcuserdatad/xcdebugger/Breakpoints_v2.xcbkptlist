@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ExpressIt/Classes/HomeVC/HomeViewController.m"
-            timestampString = "417007768.486932"
+            timestampString = "418291344.908084"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "278"
-            endingLineNumber = "278"
+            startingLineNumber = "282"
+            endingLineNumber = "282"
             landmarkName = "-imagePickerController:didFinishPickingMediaWithInfo:"
             landmarkType = "5">
          </BreakpointContent>
@@ -74,11 +74,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ExpressIt/Classes/HomeVC/HomeViewController.m"
-            timestampString = "417091987.270423"
+            timestampString = "418291344.908084"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "309"
-            endingLineNumber = "309"
+            startingLineNumber = "313"
+            endingLineNumber = "313"
             landmarkName = "-imagePickerController:didFinishPickingMediaWithInfo:"
             landmarkType = "5">
          </BreakpointContent>
@@ -120,8 +120,8 @@
                   continueAfterRunningActions = "No"
                   symbolName = "-[UploadVideoViewController publishVideoStory:]"
                   moduleName = "ExpressIt"
-                  urlString = "file:///Users/naveen/EXPRESSIT/iOS/ExpressIt/ExpressIt/Classes/UploadVideo/UploadVideoViewController.m"
-                  timestampString = "417105284.232626"
+                  urlString = "file:///Users/naveen/ExpressIT_IOS/ExpressIt/ExpressIt/Classes/UploadVideo/UploadVideoViewController.m"
+                  timestampString = "418313623.711314"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "92"
@@ -134,8 +134,8 @@
                   continueAfterRunningActions = "No"
                   symbolName = "-[UploadVideoViewController publishVideoStory:]"
                   moduleName = "ExpressIt"
-                  urlString = "file:///Users/naveen/EXPRESSIT/iOS/ExpressIt/ExpressIt/Classes/UploadVideo/UploadVideoViewController.m"
-                  timestampString = "417105284.232935"
+                  urlString = "file:///Users/naveen/ExpressIT_IOS/ExpressIt/ExpressIt/Classes/UploadVideo/UploadVideoViewController.m"
+                  timestampString = "418313623.71157"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "92"
@@ -152,11 +152,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ExpressIt/Classes/HomeVC/HomeViewController.m"
-            timestampString = "417103850.803837"
+            timestampString = "418291344.908084"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "314"
-            endingLineNumber = "314"
+            startingLineNumber = "318"
+            endingLineNumber = "318"
             landmarkName = "-imagePickerController:didFinishPickingMediaWithInfo:"
             landmarkType = "5">
          </BreakpointContent>
@@ -168,11 +168,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ExpressIt/Classes/HomeVC/HomeViewController.m"
-            timestampString = "417088140.794143"
+            timestampString = "418291344.908084"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "213"
-            endingLineNumber = "213"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
             landmarkName = "-actionSheet:clickedButtonAtIndex:"
             landmarkType = "5">
          </BreakpointContent>
@@ -232,11 +232,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ExpressIt/Classes/HomeVC/HomeViewController.m"
-            timestampString = "417090260.3455"
+            timestampString = "418291344.908084"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "284"
-            endingLineNumber = "284"
+            startingLineNumber = "288"
+            endingLineNumber = "288"
             landmarkName = "-imagePickerController:didFinishPickingMediaWithInfo:"
             landmarkType = "5">
          </BreakpointContent>
@@ -254,6 +254,70 @@
             startingLineNumber = "66"
             endingLineNumber = "66"
             landmarkName = "-publishVideoStory:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpressIt/Classes/EditVideoRecorder/EditRecordedViewController.m"
+            timestampString = "418299544.642051"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "-saveVideo:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpressIt/External/AVCam/CaptureManager.m"
+            timestampString = "418299738.129284"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "381"
+            endingLineNumber = "381"
+            landmarkName = "-saveVideoWithCompletionBlock:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpressIt/Classes/CustomVideoRecorder/SaveVideoSession.m"
+            timestampString = "418313405.391864"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "-initWithCoder:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpressIt/Classes/CustomVideoRecorder/SaveVideoSession.m"
+            timestampString = "418313411.930802"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "-initWithArray:durationTime:durationProgressTime:"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>

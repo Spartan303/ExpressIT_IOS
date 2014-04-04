@@ -54,5 +54,6 @@ typedef enum _VideoPickerSourceType
 @property (retain, nonatomic) UIImage * thumbNailImage;
 //implement the action for the publish story...
 - (IBAction)publishVideoStory:(id)sender;
+- (IBAction)backForRetakeTheVideo:(id)sender;
 
 @end

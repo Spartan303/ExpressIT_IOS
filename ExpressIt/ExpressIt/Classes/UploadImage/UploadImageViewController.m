@@ -160,6 +160,8 @@
     [appDelegate.progressHud removeFromSuperview];
     [self.navigationController popToRootViewControllerAnimated:YES];
 }
-
+- (IBAction)backForRetakeTheImage:(id)sender {
+    [self.navigationController popViewControllerAnimated:YES];
+}
 
 @end

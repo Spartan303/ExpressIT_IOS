@@ -40,5 +40,13 @@ NSString * REMOTE_TYPE_PARAM_VALUE_VIDEO = @"VIDEO";
 
 //************************** APP CONFIGURATION **************************//
 
+//************ Video Constants *************//
+
+ float  VIDEO_MAXIMUMDURATION = 6.0;
+
+ float  VIDEO_MINIMUMDURATION = 2.0;
+
+//************ Video Constatns ************//
+
 
 @end

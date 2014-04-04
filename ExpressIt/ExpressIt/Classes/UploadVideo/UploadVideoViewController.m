@@ -151,6 +151,9 @@
     [appDelegate.progressHud removeFromSuperview];
     [self.navigationController popToRootViewControllerAnimated:YES];
 }
+- (IBAction)backForRetakeTheVideo:(id)sender {
+    [self.navigationController popViewControllerAnimated:YES];
+}
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];

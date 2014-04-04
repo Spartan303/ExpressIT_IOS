@@ -49,5 +49,5 @@
 
 // publish the image to the amazon cloud..
 - (IBAction)publishImageStoryWithAmazonTVMS3:(id)sender;
-
+- (IBAction)backForRetakeTheImage:(id)sender;
 @end
